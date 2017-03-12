@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">汉译英</string>
+    <string name="accessibility_service_label">中文>>英文</string>
+    <string name="accessibility_service_description">
+        这是一个剪切板及时翻译辅助功能，
+        方便英文不大好,略懂英语的用户和海外人士沟通交流，软件采用最强微软翻译库，
+        经过实地测试，相比其它任何翻译工具都具有一定的准确性，目前仅在华为荣耀系列手机测试非常OK，
+        具体使用，请参考见网站http://www.cnweak.com，搜索"翻译"即可！
+        软件会自动帮助你翻译并重新放回剪切板，并在界面提示你翻译结果！ 
+    </string>
+</resources>
